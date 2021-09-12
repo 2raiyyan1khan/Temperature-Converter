@@ -37,7 +37,8 @@ h1 {
 }
 
 .hr {
-  border-bottom: 2px solid #464660;
+  border-bottom: 2px solid #ffff;
+  opacity: 80%;
 }
 .container {
   text-align: center;
@@ -56,14 +57,14 @@ h1 {
   font-size: 30px;
   text-align: center;
   font-weight: bold;
-  border: 2px solid #464660;
+  border: 2px solid #ffff;
   border-radius: 5px;
   width: 250px;
   font-family: inherit;
   transition: all 0.3s;
   background: transparent;
   color: #ffff;
-  opacity: 70%;
+  opacity: 80%;
 }
 label {
   display: block;
@@ -71,7 +72,7 @@ label {
   font-size: 22px;
   font-weight: 600;
   text-transform: capitalize;
-  opacity: 60%;
+  opacity: 70%;
 }
 .inp:focus{
     outline: none;
